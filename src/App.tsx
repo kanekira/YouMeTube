@@ -1,11 +1,12 @@
 import Header from './components/headerComponent/Header'
+import Body from './components/body/Body'
 
 function App() {
 
   return (
     <div className='p-5'>
       <Header />
-      <div>Youtube</div>
+      <Body />
       {
         /* 
         - Header
